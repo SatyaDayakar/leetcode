@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SatyaDayakar/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/SatyaDayakar/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SatyaDayakar/leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/1288-remove-covered-intervals) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SatyaDayakar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyaDayakar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
