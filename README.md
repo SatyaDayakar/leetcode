@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/SatyaDayakar/leetcode/tree/master/0018-4sum) |
 | [0118-pascals-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
 | [0575-distribute-candies](https://github.com/SatyaDayakar/leetcode/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
 | [0575-distribute-candies](https://github.com/SatyaDayakar/leetcode/tree/master/0575-distribute-candies) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SatyaDayakar/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SatyaDayakar/leetcode/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Segment Tree
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
