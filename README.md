@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/SatyaDayakar/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3701-compute-alternating-sum](https://github.com/SatyaDayakar/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Simulation
+|  |
+| ------- |
+| [3701-compute-alternating-sum](https://github.com/SatyaDayakar/leetcode/tree/master/3701-compute-alternating-sum) |
 <!---LeetCode Topics End-->
