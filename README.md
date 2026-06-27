@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3701-compute-alternating-sum](https://github.com/SatyaDayakar/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3866-first-unique-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3866-first-unique-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/3866-first-unique-even-element) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3866-first-unique-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
