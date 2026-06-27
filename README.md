@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyaDayakar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SatyaDayakar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0575-distribute-candies](https://github.com/SatyaDayakar/leetcode/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SatyaDayakar/leetcode/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/SatyaDayakar/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SatyaDayakar/leetcode/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyaDayakar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/SatyaDayakar/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -87,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SatyaDayakar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyaDayakar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/SatyaDayakar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
