@@ -1,24 +1,15 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        vector<int> count(3, 0);
-
-        int left = 0;
-        int ans = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-
-            count[s[right] - 'a']++;
-
-            while (count[0] > 0 && count[1] > 0 && count[2] > 0) {
-
-                count[s[left] - 'a']--;
-                left++;
+        int last[3] = {-1, -1, -1}, left = 0, count = 0;
+        for(int right = 0; right < s.size(); right++){
+            char c = s[right];
+            last[c - 'a'] = right;
+            if(last[0] != -1 && last[1] != -1 && last[2] != -1){
+                count += min({last[0], last[1], last[2]}) + 1;
             }
-
-            ans += left;
         }
 
-        return ans;
+        return count;
     }
 };
