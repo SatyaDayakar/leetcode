@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3028-ant-on-the-boundary](https://github.com/SatyaDayakar/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3701-compute-alternating-sum](https://github.com/SatyaDayakar/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3866-first-unique-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SatyaDayakar/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3866-first-unique-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/3866-first-unique-even-element) |
 ## Stack
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/SatyaDayakar/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyaDayakar/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3731-find-missing-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3731-find-missing-elements) |
 ## Segment Tree
 |  |
 | ------- |
