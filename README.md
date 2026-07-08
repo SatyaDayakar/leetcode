@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SatyaDayakar/leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SatyaDayakar/leetcode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/SatyaDayakar/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SatyaDayakar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0916-word-subsets](https://github.com/SatyaDayakar/leetcode/tree/master/0916-word-subsets) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/SatyaDayakar/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SatyaDayakar/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1929-concatenation-of-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/SatyaDayakar/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
