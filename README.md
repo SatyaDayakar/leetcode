@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/SatyaDayakar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/SatyaDayakar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyaDayakar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SatyaDayakar/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SatyaDayakar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SatyaDayakar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SatyaDayakar/leetcode/tree/master/0258-add-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SatyaDayakar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
