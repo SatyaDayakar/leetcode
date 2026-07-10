@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyaDayakar/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SatyaDayakar/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDayakar/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/SatyaDayakar/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/SatyaDayakar/leetcode/tree/master/2057-smallest-index-with-equal-value) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SatyaDayakar/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyaDayakar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Sorting
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/SatyaDayakar/leetcode/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/SatyaDayakar/leetcode/tree/master/1816-truncate-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SatyaDayakar/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDayakar/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
 |  |
