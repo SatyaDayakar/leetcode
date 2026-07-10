@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SatyaDayakar/leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/SatyaDayakar/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1929-concatenation-of-array) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/SatyaDayakar/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SatyaDayakar/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SatyaDayakar/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/SatyaDayakar/leetcode/tree/master/0916-word-subsets) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SatyaDayakar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyaDayakar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/SatyaDayakar/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDayakar/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
 |  |
