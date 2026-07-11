@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/SatyaDayakar/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyaDayakar/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SatyaDayakar/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2706-buy-two-chocolates](https://github.com/SatyaDayakar/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3731-find-missing-elements) |
 ## Segment Tree
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/SatyaDayakar/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyaDayakar/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SatyaDayakar/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2706-buy-two-chocolates](https://github.com/SatyaDayakar/leetcode/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/SatyaDayakar/leetcode/tree/master/0258-add-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SatyaDayakar/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SatyaDayakar/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SatyaDayakar/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/SatyaDayakar/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
