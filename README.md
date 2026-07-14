@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SatyaDayakar/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SatyaDayakar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/SatyaDayakar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SatyaDayakar/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/SatyaDayakar/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SatyaDayakar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/SatyaDayakar/leetcode/tree/master/1861-rotating-the-box) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/SatyaDayakar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Sorting
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SatyaDayakar/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDayakar/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/SatyaDayakar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SatyaDayakar/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/SatyaDayakar/leetcode/tree/master/3174-clear-digits) |
 ## Linked List
