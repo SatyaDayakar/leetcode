@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SatyaDayakar/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SatyaDayakar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/SatyaDayakar/leetcode/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/SatyaDayakar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SatyaDayakar/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/SatyaDayakar/leetcode/tree/master/3174-clear-digits) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SatyaDayakar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyaDayakar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/SatyaDayakar/leetcode/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/SatyaDayakar/leetcode/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDayakar/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/SatyaDayakar/leetcode/tree/master/1816-truncate-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SatyaDayakar/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
