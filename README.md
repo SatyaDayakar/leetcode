@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/SatyaDayakar/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SatyaDayakar/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/SatyaDayakar/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SatyaDayakar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1720-decode-xored-array](https://github.com/SatyaDayakar/leetcode/tree/master/1720-decode-xored-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/SatyaDayakar/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SatyaDayakar/leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SatyaDayakar/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/SatyaDayakar/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
