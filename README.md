@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SatyaDayakar/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SatyaDayakar/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SatyaDayakar/leetcode/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/SatyaDayakar/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SatyaDayakar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SatyaDayakar/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/SatyaDayakar/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
