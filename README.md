@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/SatyaDayakar/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SatyaDayakar/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyaDayakar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SatyaDayakar/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SatyaDayakar/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SatyaDayakar/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/SatyaDayakar/leetcode/tree/master/1861-rotating-the-box) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/SatyaDayakar/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyaDayakar/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyaDayakar/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SatyaDayakar/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2706-buy-two-chocolates](https://github.com/SatyaDayakar/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyaDayakar/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
