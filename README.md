@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/SatyaDayakar/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/SatyaDayakar/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SatyaDayakar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/SatyaDayakar/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyaDayakar/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/SatyaDayakar/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SatyaDayakar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SatyaDayakar/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/SatyaDayakar/leetcode/tree/master/3174-clear-digits) |
 ## Linked List
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/SatyaDayakar/leetcode/tree/master/0319-bulb-switcher) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SatyaDayakar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
