@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/0020-valid-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SatyaDayakar/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/SatyaDayakar/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SatyaDayakar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0445-add-two-numbers-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SatyaDayakar/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SatyaDayakar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SatyaDayakar/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/SatyaDayakar/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0445-add-two-numbers-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
