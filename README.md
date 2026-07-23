@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/SatyaDayakar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0916-word-subsets](https://github.com/SatyaDayakar/leetcode/tree/master/0916-word-subsets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyaDayakar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/SatyaDayakar/leetcode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/SatyaDayakar/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SatyaDayakar/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/SatyaDayakar/leetcode/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SatyaDayakar/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 ## Sliding Window
 |  |
