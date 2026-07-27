@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyaDayakar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SatyaDayakar/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/SatyaDayakar/leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyaDayakar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/SatyaDayakar/leetcode/tree/master/0135-candy) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SatyaDayakar/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatyaDayakar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyaDayakar/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
