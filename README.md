@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/SatyaDayakar/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2079-watering-plants](https://github.com/SatyaDayakar/leetcode/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2105-watering-plants-ii](https://github.com/SatyaDayakar/leetcode/tree/master/2105-watering-plants-ii) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SatyaDayakar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/SatyaDayakar/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/SatyaDayakar/leetcode/tree/master/1861-rotating-the-box) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/SatyaDayakar/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2105-watering-plants-ii](https://github.com/SatyaDayakar/leetcode/tree/master/2105-watering-plants-ii) |
 | [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SatyaDayakar/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SatyaDayakar/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2079-watering-plants](https://github.com/SatyaDayakar/leetcode/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/SatyaDayakar/leetcode/tree/master/2105-watering-plants-ii) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SatyaDayakar/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SatyaDayakar/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/2390-removing-stars-from-a-string) |
