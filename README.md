@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SatyaDayakar/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SatyaDayakar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/SatyaDayakar/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/SatyaDayakar/leetcode/tree/master/0881-boats-to-save-people) |
 | [0916-word-subsets](https://github.com/SatyaDayakar/leetcode/tree/master/0916-word-subsets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyaDayakar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyaDayakar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/SatyaDayakar/leetcode/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SatyaDayakar/leetcode/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/SatyaDayakar/leetcode/tree/master/0991-broken-calculator) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -452,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SatyaDayakar/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
