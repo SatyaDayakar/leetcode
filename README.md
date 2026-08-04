@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SatyaDayakar/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3028-ant-on-the-boundary](https://github.com/SatyaDayakar/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/SatyaDayakar/leetcode/tree/master/3174-clear-digits) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/SatyaDayakar/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3701-compute-alternating-sum](https://github.com/SatyaDayakar/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyaDayakar/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/SatyaDayakar/leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/SatyaDayakar/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyaDayakar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/SatyaDayakar/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatyaDayakar/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -477,5 +479,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SatyaDayakar/leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SatyaDayakar/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SatyaDayakar/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/SatyaDayakar/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
