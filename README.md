@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/SatyaDayakar/leetcode/tree/master/0991-broken-calculator) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SatyaDayakar/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1922-count-good-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/SatyaDayakar/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SatyaDayakar/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SatyaDayakar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SatyaDayakar/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/1922-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
