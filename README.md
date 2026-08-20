@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SatyaDayakar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3028-ant-on-the-boundary](https://github.com/SatyaDayakar/leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyaDayakar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/SatyaDayakar/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/SatyaDayakar/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SatyaDayakar/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3028-ant-on-the-boundary](https://github.com/SatyaDayakar/leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyaDayakar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SatyaDayakar/leetcode/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SatyaDayakar/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3701-compute-alternating-sum](https://github.com/SatyaDayakar/leetcode/tree/master/3701-compute-alternating-sum) |
