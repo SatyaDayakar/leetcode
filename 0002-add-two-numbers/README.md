@@ -18,12 +18,7 @@
 <strong>Output:</strong> [0]
 </pre>
 
-<p><strong class="example">Example 3:</strong></p>
 
-<pre>
-<strong>Input:</strong> l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
-<strong>Output:</strong> [8,9,9,9,0,0,0,1]
-</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
