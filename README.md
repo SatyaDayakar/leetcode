@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3028-ant-on-the-boundary](https://github.com/SatyaDayakar/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyaDayakar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/SatyaDayakar/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SatyaDayakar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/SatyaDayakar/leetcode/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/SatyaDayakar/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatyaDayakar/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatyaDayakar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/SatyaDayakar/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Enumeration
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/SatyaDayakar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyaDayakar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SatyaDayakar/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SatyaDayakar/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SatyaDayakar/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatyaDayakar/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyaDayakar/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -510,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
