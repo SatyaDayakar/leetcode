@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SatyaDayakar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/SatyaDayakar/leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyaDayakar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/SatyaDayakar/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SatyaDayakar/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SatyaDayakar/leetcode/tree/master/0204-count-primes) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/SatyaDayakar/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SatyaDayakar/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SatyaDayakar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SatyaDayakar/leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/SatyaDayakar/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SatyaDayakar/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SatyaDayakar/leetcode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/SatyaDayakar/leetcode/tree/master/0319-bulb-switcher) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SatyaDayakar/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SatyaDayakar/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -577,4 +581,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyaDayakar/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SatyaDayakar/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SatyaDayakar/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SatyaDayakar/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
