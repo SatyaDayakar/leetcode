@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/SatyaDayakar/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SatyaDayakar/leetcode/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/SatyaDayakar/leetcode/tree/master/0991-broken-calculator) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SatyaDayakar/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/SatyaDayakar/leetcode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SatyaDayakar/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Bucket Sort
 |  |
