@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SatyaDayakar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatyaDayakar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SatyaDayakar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/SatyaDayakar/leetcode/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SatyaDayakar/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDayakar/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/SatyaDayakar/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyaDayakar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SatyaDayakar/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SatyaDayakar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1695-maximum-erasure-value](https://github.com/SatyaDayakar/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SatyaDayakar/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/SatyaDayakar/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SatyaDayakar/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SatyaDayakar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SatyaDayakar/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SatyaDayakar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SatyaDayakar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SatyaDayakar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatyaDayakar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/SatyaDayakar/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SatyaDayakar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyaDayakar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatyaDayakar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SatyaDayakar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1695-maximum-erasure-value](https://github.com/SatyaDayakar/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatyaDayakar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/SatyaDayakar/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
