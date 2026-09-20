@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SatyaDayakar/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyaDayakar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SatyaDayakar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/SatyaDayakar/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/SatyaDayakar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyaDayakar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/3024-type-of-triangle) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/SatyaDayakar/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SatyaDayakar/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/3227-vowels-game-in-a-string) |
