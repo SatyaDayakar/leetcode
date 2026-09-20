@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/SatyaDayakar/leetcode/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SatyaDayakar/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyaDayakar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/SatyaDayakar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SatyaDayakar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/3024-type-of-triangle) |
+| [3074-apple-redistribution-into-boxes](https://github.com/SatyaDayakar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/SatyaDayakar/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/SatyaDayakar/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyaDayakar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/SatyaDayakar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SatyaDayakar/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
