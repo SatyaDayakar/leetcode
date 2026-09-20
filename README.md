@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/SatyaDayakar/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/SatyaDayakar/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3046-split-the-array](https://github.com/SatyaDayakar/leetcode/tree/master/3046-split-the-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SatyaDayakar/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyaDayakar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
