@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SatyaDayakar/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/SatyaDayakar/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/SatyaDayakar/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/SatyaDayakar/leetcode/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SatyaDayakar/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/SatyaDayakar/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/SatyaDayakar/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SatyaDayakar/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
