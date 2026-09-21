@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SatyaDayakar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3200-maximum-height-of-a-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/3200-maximum-height-of-a-triangle) |
+| [3206-alternating-groups-i](https://github.com/SatyaDayakar/leetcode/tree/master/3206-alternating-groups-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SatyaDayakar/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SatyaDayakar/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SatyaDayakar/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/SatyaDayakar/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3206-alternating-groups-i](https://github.com/SatyaDayakar/leetcode/tree/master/3206-alternating-groups-i) |
 ## Design
 |  |
 | ------- |
