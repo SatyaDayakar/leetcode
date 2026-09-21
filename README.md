@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/SatyaDayakar/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SatyaDayakar/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/SatyaDayakar/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SatyaDayakar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SatyaDayakar/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/SatyaDayakar/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/SatyaDayakar/leetcode/tree/master/3238-find-the-number-of-winning-players) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SatyaDayakar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SatyaDayakar/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SatyaDayakar/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SatyaDayakar/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SatyaDayakar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SatyaDayakar/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatyaDayakar/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
