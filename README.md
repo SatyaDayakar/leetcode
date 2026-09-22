@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/SatyaDayakar/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/SatyaDayakar/leetcode/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SatyaDayakar/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/SatyaDayakar/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/SatyaDayakar/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SatyaDayakar/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SatyaDayakar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
