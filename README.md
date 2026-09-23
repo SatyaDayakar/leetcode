@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SatyaDayakar/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3866-first-unique-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyaDayakar/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SatyaDayakar/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyaDayakar/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/SatyaDayakar/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/SatyaDayakar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SatyaDayakar/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3745-maximize-expression-of-three-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
 |  |
 | ------- |
