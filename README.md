@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/SatyaDayakar/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyaDayakar/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/SatyaDayakar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/SatyaDayakar/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/3866-first-unique-even-element) |
 ## Stack
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/SatyaDayakar/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SatyaDayakar/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/SatyaDayakar/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
