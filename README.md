@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/SatyaDayakar/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SatyaDayakar/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3127-make-a-square-with-the-same-color](https://github.com/SatyaDayakar/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SatyaDayakar/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/SatyaDayakar/leetcode/tree/master/3151-special-array-i) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/SatyaDayakar/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/SatyaDayakar/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/SatyaDayakar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3127-make-a-square-with-the-same-color](https://github.com/SatyaDayakar/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SatyaDayakar/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyaDayakar/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SatyaDayakar/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SatyaDayakar/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SatyaDayakar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyaDayakar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3127-make-a-square-with-the-same-color](https://github.com/SatyaDayakar/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3200-maximum-height-of-a-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SatyaDayakar/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
