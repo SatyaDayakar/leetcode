@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDayakar/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1695-maximum-erasure-value](https://github.com/SatyaDayakar/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1720-decode-xored-array](https://github.com/SatyaDayakar/leetcode/tree/master/1720-decode-xored-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/SatyaDayakar/leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatyaDayakar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatyaDayakar/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SatyaDayakar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/SatyaDayakar/leetcode/tree/master/1695-maximum-erasure-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SatyaDayakar/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/SatyaDayakar/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2404-most-frequent-even-element](https://github.com/SatyaDayakar/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/SatyaDayakar/leetcode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/SatyaDayakar/leetcode/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDayakar/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/SatyaDayakar/leetcode/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/SatyaDayakar/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/SatyaDayakar/leetcode/tree/master/1927-sum-game) |
