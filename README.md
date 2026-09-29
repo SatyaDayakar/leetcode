@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/SatyaDayakar/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SatyaDayakar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SatyaDayakar/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SatyaDayakar/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/SatyaDayakar/leetcode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SatyaDayakar/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SatyaDayakar/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SatyaDayakar/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SatyaDayakar/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyaDayakar/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/SatyaDayakar/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2679-sum-in-a-matrix](https://github.com/SatyaDayakar/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/SatyaDayakar/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SatyaDayakar/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SatyaDayakar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/SatyaDayakar/leetcode/tree/master/3024-type-of-triangle) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatyaDayakar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/SatyaDayakar/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SatyaDayakar/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Enumeration
