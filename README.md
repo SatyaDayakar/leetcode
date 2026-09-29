@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SatyaDayakar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SatyaDayakar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2105-watering-plants-ii](https://github.com/SatyaDayakar/leetcode/tree/master/2105-watering-plants-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SatyaDayakar/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SatyaDayakar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SatyaDayakar/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/SatyaDayakar/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/SatyaDayakar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2105-watering-plants-ii](https://github.com/SatyaDayakar/leetcode/tree/master/2105-watering-plants-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SatyaDayakar/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SatyaDayakar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/SatyaDayakar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SatyaDayakar/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SatyaDayakar/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SatyaDayakar/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SatyaDayakar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SatyaDayakar/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
