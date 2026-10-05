@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SatyaDayakar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/SatyaDayakar/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SatyaDayakar/leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SatyaDayakar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/SatyaDayakar/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyaDayakar/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SatyaDayakar/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SatyaDayakar/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/SatyaDayakar/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/0856-score-of-parentheses) |
 | [0916-word-subsets](https://github.com/SatyaDayakar/leetcode/tree/master/0916-word-subsets) |
 | [0940-distinct-subsequences-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SatyaDayakar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SatyaDayakar/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyaDayakar/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
