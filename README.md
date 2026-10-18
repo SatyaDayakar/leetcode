@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SatyaDayakar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/SatyaDayakar/leetcode/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SatyaDayakar/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SatyaDayakar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SatyaDayakar/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1695-maximum-erasure-value](https://github.com/SatyaDayakar/leetcode/tree/master/1695-maximum-erasure-value) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SatyaDayakar/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SatyaDayakar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SatyaDayakar/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SatyaDayakar/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SatyaDayakar/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/0912-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/SatyaDayakar/leetcode/tree/master/0991-broken-calculator) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SatyaDayakar/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SatyaDayakar/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SatyaDayakar/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/SatyaDayakar/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -751,10 +755,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SatyaDayakar/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brainteaser
 |  |
 | ------- |
@@ -776,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SatyaDayakar/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyaDayakar/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SatyaDayakar/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -870,4 +877,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SatyaDayakar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SatyaDayakar/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
