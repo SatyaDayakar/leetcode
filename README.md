@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/SatyaDayakar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/SatyaDayakar/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/SatyaDayakar/leetcode/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SatyaDayakar/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SatyaDayakar/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyaDayakar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/SatyaDayakar/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/SatyaDayakar/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/SatyaDayakar/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2409-count-days-spent-together](https://github.com/SatyaDayakar/leetcode/tree/master/2409-count-days-spent-together) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SatyaDayakar/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/SatyaDayakar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
