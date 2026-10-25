@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/SatyaDayakar/leetcode/tree/master/0916-word-subsets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyaDayakar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/SatyaDayakar/leetcode/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/SatyaDayakar/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SatyaDayakar/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SatyaDayakar/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SatyaDayakar/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SatyaDayakar/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SatyaDayakar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/SatyaDayakar/leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/SatyaDayakar/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SatyaDayakar/leetcode/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/SatyaDayakar/leetcode/tree/master/1861-rotating-the-box) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SatyaDayakar/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/SatyaDayakar/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SatyaDayakar/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SatyaDayakar/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/SatyaDayakar/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyaDayakar/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Primality Test
 |  |
@@ -896,4 +900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/SatyaDayakar/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
