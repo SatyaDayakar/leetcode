@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/SatyaDayakar/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SatyaDayakar/leetcode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/SatyaDayakar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/SatyaDayakar/leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SatyaDayakar/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyaDayakar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SatyaDayakar/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SatyaDayakar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SatyaDayakar/leetcode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/SatyaDayakar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/SatyaDayakar/leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SatyaDayakar/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0916-word-subsets](https://github.com/SatyaDayakar/leetcode/tree/master/0916-word-subsets) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SatyaDayakar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SatyaDayakar/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/SatyaDayakar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatyaDayakar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SatyaDayakar/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SatyaDayakar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
