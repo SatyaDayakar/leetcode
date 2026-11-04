@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatyaDayakar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SatyaDayakar/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/SatyaDayakar/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/SatyaDayakar/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3028-ant-on-the-boundary](https://github.com/SatyaDayakar/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SatyaDayakar/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SatyaDayakar/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/SatyaDayakar/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2409-count-days-spent-together](https://github.com/SatyaDayakar/leetcode/tree/master/2409-count-days-spent-together) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SatyaDayakar/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/SatyaDayakar/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/SatyaDayakar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyaDayakar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
