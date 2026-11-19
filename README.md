@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SatyaDayakar/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SatyaDayakar/leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SatyaDayakar/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SatyaDayakar/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/SatyaDayakar/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/SatyaDayakar/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SatyaDayakar/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SatyaDayakar/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/SatyaDayakar/leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SatyaDayakar/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2679-sum-in-a-matrix](https://github.com/SatyaDayakar/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/SatyaDayakar/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/SatyaDayakar/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SatyaDayakar/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SatyaDayakar/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/SatyaDayakar/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SatyaDayakar/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/SatyaDayakar/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SatyaDayakar/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyaDayakar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
