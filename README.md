@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SatyaDayakar/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyaDayakar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SatyaDayakar/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0397-integer-replacement](https://github.com/SatyaDayakar/leetcode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/SatyaDayakar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/SatyaDayakar/leetcode/tree/master/0877-stone-game) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SatyaDayakar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SatyaDayakar/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/SatyaDayakar/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/SatyaDayakar/leetcode/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/SatyaDayakar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/SatyaDayakar/leetcode/tree/master/1720-decode-xored-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/SatyaDayakar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/SatyaDayakar/leetcode/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/SatyaDayakar/leetcode/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/SatyaDayakar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/SatyaDayakar/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SatyaDayakar/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/SatyaDayakar/leetcode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/SatyaDayakar/leetcode/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyaDayakar/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brainteaser
